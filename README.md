@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @makobot-sh!
-- 👀 I’m interested in infosec, distributed computing, OS programming, videogame creation and internet culture amongst other things.
-- 🌱 I’m currently studying Computer Science, and particularly focusing on infosec and data architecture at the moment.
+- 👀 I’m currently interested in graphics programming, distributed computing, OS programming, videogame creation and internet culture amongst other things.
+- 🌱 I’m currently studying Computer Science, trying to learn about as many different areas as possible since there's a lot still I don't know :)
 - 💞️ I’m looking to learn more about console emulation and collaborate on open-source projects that preserve internet culture.
 - 📫 You can reach out to me at makobotsh at gmail.com!
 

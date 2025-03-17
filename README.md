@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @makobot-sh!
 - 👀 I’m currently interested in AI, graphics programming, OS programming, videogame creation and internet culture amongst other things.
-- 🌱 I’m a Computer Science student, working on my thesis on Bayesian Inference models
-- 💞️ I’m looking to learn more about AI, console emulation and data preservation and archival (such as what archive.org does).
+- 🌱 I’m a Bsc+Msc in Computer Science, you can find my thesis work on Bayesian Inference models [here](https://github.com/makobot-sh/matchbox.py).
+- 💞️ I’m looking to learn more about explainable AI, console emulation and data preservation and archival (such as what archive.org does).
 - 📫 You can reach out to me at makobotsh at gmail.com!
 
 <!---
